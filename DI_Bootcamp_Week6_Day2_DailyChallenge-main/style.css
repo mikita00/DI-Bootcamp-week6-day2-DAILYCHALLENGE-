@@ -1,0 +1,26 @@
+/*
+This page ise use for styling the table and its contains
+*/
+
+table{
+    width: 400px;
+   margin: 40px auto;
+   border: solid black;
+   table-layout: fixed;
+   border-collapse: collapse; /* For making the columns not separated*/
+}
+
+table td{
+    height: 30px;
+    
+}
+
+.white_card{
+    background-color: #fff;
+
+}
+
+.black_card{
+    background-color: black;
+
+}
